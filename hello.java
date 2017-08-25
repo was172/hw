@@ -6,5 +6,6 @@ class Hello{
 		int id;
 		String name;
 		String mobile;
+		//git reset
 	}
 }
