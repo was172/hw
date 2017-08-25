@@ -6,3 +6,5 @@ git reset test
 `git push github master`
 ## 生成ssh公钥
 `ssh -kengen -t rsa  -C "email@email.com" `
+## log显示每次提交引入的补丁
+`git log -p`
