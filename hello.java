@@ -5,5 +5,6 @@ class Hello{
 	class User{
 		int id;
 		String name;
+		String mobile;
 	}
 }
